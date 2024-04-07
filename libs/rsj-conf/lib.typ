@@ -12,8 +12,8 @@
   set document(title: title)
 
   // Set the Fonts
-  let gothic = ("MS PGothic", "IPAexGothic", "Noto Sans CJK JP")
-  let mincho = ("MS PMincho", "IPAexMincho", "Noto Serif CJK JP")
+  let gothic = ("MS PGothic", "IPAexGothic", "Hiragino Kaku Gothic Pro", "Noto Sans JP")
+  let mincho = ("MS PMincho", "IPAexMincho", "Hiragino Mincho Pro", "Noto Serif JP")
 
   // Configure the page.
   set page(
